@@ -7,7 +7,7 @@
     "@truffle/contract-sources": "^0.1.6",
     "@truffle/error": "0.0.7",
     "@truffle/expect": "0.0.11",
-    "@truffle/require": "^2.0.24",
+    "@truffle/require": "^2.0.65",
     "@truffle/solidity-utils": "^1.2.5",
     "async": "2.6.1",
     "axios": "^0.18.0",
